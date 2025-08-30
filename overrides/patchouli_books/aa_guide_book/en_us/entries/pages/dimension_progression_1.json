@@ -1,0 +1,25 @@
+{
+    "name": "Dimension Progression 1",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:early_game",
+    "pages": [
+
+
+        {
+            "type": "patchouli:text",
+            "text": "To progress to the nether, you will need the Arcane Steel pickaxe, if using any other pickaxe crafted from undergarden materials, you will be unable to break through to the next layer, to craft the Arcane Steel pickaxe you need an Arcane Steel ingot which is crafted from one Forgotten Ingot (Read Undergarden Bosses Entry) One Arcane Salvage and one Arcane Ingot."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Combining this Arcane Steel ingot with a froststeel pickaxe, which is crafted from frosteel ingots will give you the Arcane Steel pickaxe. Froststeel can be aquired in two primary ways, you can either loot enough froststeel nuggets from the catacombs to craft the ingots, or find froststeel ore in the frostfields within the undergarden."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Also due to a rendering bug with immersive portals, I'm just going to quote what I said in my Discord Server in FAQ 'For those who are saying there is a strange unbreakable block that ISN'T bedrock that is inbetween the dimensions, it is actually just obsidian, however due to immersive portals splitting the world into multiple layers, the obsidian is technically in a different dimension, meaning you don't see the progress as you break it, just continue to mine it, it will break in the same amount of time as the rest of the obsidian.'"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "There is also another bug that I must point out due to more immersive portals jank, if you attempt to mine a block that is in the dimension above you while still being in the dimension below it using the wrong pickaxe, the block will be mined even while using the wrong pickaxe, however immediately upon climbing into the hole you mined, the blocks will immediately re-generate and you will be teleported into some blocks in the dimension, suffocating to death, so use the correct pickaxe lol."
+        }
+    ]
+}

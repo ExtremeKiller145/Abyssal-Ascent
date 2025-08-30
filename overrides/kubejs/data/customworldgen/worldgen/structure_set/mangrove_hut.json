@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "customworldgen:mangrove_hut",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 169476080,
+    "spacing": 36,
+    "separation": 24,
+    "type": "minecraft:random_spread"
+  }
+}

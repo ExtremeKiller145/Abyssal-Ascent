@@ -1,0 +1,15 @@
+{
+    "name": "Reforging",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:early_game",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Nearly all armor, tools, weapons and accessories can be reforged to change the modifier it has, rarer modifiers provide more potent buffs. To reforge you need an Anvil and a hammer that corresponds to the type of item you want to reforge, an Armorers hammer for armor and accessories and a Weaponsmiths hammer for weapons (tools cannot currently be reforged, next update that'll be added)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can craft the necessary hammers for the item you want to reforge using cloggrum ingots and sticks, check JEI for the recipes. I must add that there is currently a bug where if you shift click the output item of a reforge at an Anvil, it will crash your world and you will have to rejoin, to avoid this, just simply click and drag the outputted item from the Anvil to your Inventory, also when playing co-op, it can be a little janky."
+        }
+    ]
+}

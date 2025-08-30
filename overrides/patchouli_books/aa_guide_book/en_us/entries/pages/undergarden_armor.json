@@ -1,0 +1,26 @@
+{
+    "name": "Undergarden Armor",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:early_game",
+    "pages": [
+
+
+        {
+            "type": "patchouli:text",
+            "text": "There is a wide variety of available armors in the undergarden, for simplicities sake I will not be providing specific crafting recipes for them, check them yourself using JEI by opening your inventory and searching their names on the bottom-right corner of the screen."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Easiest set of armor you can craft in the undergarden is wooden armor, crafted with any type of logs (not planks), cloggrum is the undergarden equivalent to iron, which can also be crafted into a full set of armor, similarly you have the utherium set which can be crafted with utherium crystals dropped by rotspawn hostiles."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Froststeel armor while a little harder to obtain due to material rarity is another option, which provides one defense less per equipment piece than utherium but gives you one extra armor toughness per piece, it does also slow down your movement a little though."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can also craft magic armor sets that compliment your spellcasting ability and add to your total mana pool, such as the cryomancer set, wandering magician set, evoker set, plagued set, there are of course many more mage sets of armor but those ones you are able to craft in the undergarden. A vital ingredient for crafting mage related armor/tools is arcane essence, which can be mined."
+        }
+
+    ]
+}

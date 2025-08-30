@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "customworldgen:pyromancer_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1512684,
+    "spacing": 36,
+    "separation": 24,
+    "type": "minecraft:random_spread"
+  }
+}

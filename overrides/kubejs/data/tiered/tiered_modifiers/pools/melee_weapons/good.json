@@ -1,0 +1,37 @@
+{
+    "weight": 2,
+    "verifiers": [
+        {
+            "tag": "minecraft:swords"
+        },
+        {
+            "tag": "minecraft:axes"
+        },
+        {
+            "tag": "forge:weapons"
+        },
+        {
+            "tag": "simplyswords:swords"
+        },
+        {
+            "tag": "forge:swords"
+        }
+    ],
+    "tiers": [
+        "tiered:melee_weapons/deadly",
+        "tiered:melee_weapons/massive",
+        "tiered:melee_weapons/savage",
+        "tiered:melee_weapons/dangerous",
+        "tiered:melee_weapons/staunch",
+        "tiered:melee_weapons/mystic",
+        "tiered:melee_weapons/masterful",
+        "tiered:melee_weapons/celestial",
+        "tiered:melee_weapons/murderous",
+        "tiered:melee_weapons/manic",
+        "tiered:melee_weapons/frenzying",
+        "tiered:melee_weapons/legendary",
+        "tiered:melee_weapons/godly",
+        "tiered:melee_weapons/unreal",
+        "tiered:melee_weapons/catastrophic"
+    ]
+}

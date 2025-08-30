@@ -1,0 +1,8 @@
+{
+    "name": "Abyssal Ascent Guide",
+    "landing_text": "Here you will find a lot of important information regarding the modpack, I highly recommend you read through this if you have any questions and if an answer is not provided you can ask us in our Discord Server. This guide is still being worked on and most of the content (for now) will be primarily early game to help newer players. Also you may have to swap around keybinds in order to use certain features as there's a few in conflict by default. ",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true,
+    "show_progress": false
+}

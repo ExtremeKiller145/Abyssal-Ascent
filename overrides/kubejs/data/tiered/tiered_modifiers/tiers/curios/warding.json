@@ -1,0 +1,32 @@
+{
+    "weight": 5,
+    "reforge_experience_cost": 4,
+    "reforge_durability_cost": 2,
+    "reforge_item": "tiered:armorers_hammer",
+    "style": {
+        "color": "gold"
+    },
+    "attributes": [
+        {
+            "type": "generic.armor",
+            "modifier": {
+                "name": "tiered:curios.warding",
+                "operation": "ADDITION",
+                "amount": 4
+            },
+            "optional_curio_slots": [
+                "pocket",
+                "feet",
+                "charm",
+                "belt",
+                "ring",
+                "hands",
+                "spellbook",
+                "body",
+                "back",
+                "necklace",
+                "head"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+#Sun Apr 20 02:50:28 BST 2025
+shadowDistance=128.0
+LIGHT_SHAFT=false
+SHADOW_FILTER=false
+shadowMapResolution=512
+TAA=false
+SHADOW=false
+SHADOW_COLOR=false
+AO=false

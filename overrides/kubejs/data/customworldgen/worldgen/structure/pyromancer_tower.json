@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "customworldgen:pyromancer_tower/start_pool",
+  "size": 7,
+  "biomes": "#customworldgen:has_structure/pyromancer_tower",
+  "terrain_adaptation": "beard_thin",
+  "use_expansion_hack": false,
+ "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 74
+    },
+    "max_inclusive": {
+      "absolute": 32
+    }
+  },
+  "step": "underground_decoration",
+  "max_distance_from_center": 96,
+  "spawn_overrides": {}
+}

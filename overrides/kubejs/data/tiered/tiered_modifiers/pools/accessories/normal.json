@@ -1,0 +1,56 @@
+{
+    "weight": 5,
+    "verifiers": [
+      {
+        "tag": "curios:feet"
+      },
+      {
+        "tag": "curios:pocket"
+      },
+      {
+        "tag": "curios:charm"
+      },
+      {
+        "tag": "curios:belt"
+      },
+      {
+        "tag": "curios:ring"
+      },
+      {
+        "tag": "curios:hands"
+      },
+      {
+        "tag": "curios:spellbook"
+      },
+      {
+        "tag": "curios:body"
+      },
+      {
+        "tag": "curios:necklace"
+      },
+      {
+        "tag": "curios:head"
+      }
+    ],
+    "tiers": [
+      "tiered:curios/angry",
+      "tiered:curios/arcane",
+      "tiered:curios/armored",
+      "tiered:curios/brisk",
+      "tiered:curios/fleeting",
+      "tiered:curios/guarding",
+      "tiered:curios/hard",
+      "tiered:curios/hasty",
+      "tiered:curios/intrepid",
+      "tiered:curios/jagged",
+      "tiered:curios/lucky",
+      "tiered:curios/menacing",
+      "tiered:curios/precise",
+      "tiered:curios/quick",
+      "tiered:curios/rash",
+      "tiered:curios/spiked",
+      "tiered:curios/violent",
+      "tiered:curios/warding",
+      "tiered:curios/wild"
+    ]
+  }

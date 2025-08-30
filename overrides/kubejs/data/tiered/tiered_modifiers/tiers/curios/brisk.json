@@ -1,0 +1,32 @@
+{
+    "weight": 5,
+    "reforge_experience_cost": 1,
+    "reforge_durability_cost": 2,
+    "reforge_item": "tiered:armorers_hammer",
+    "style": {
+        "color": "green"
+    },
+    "attributes": [
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:curios.brisk",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.01
+            },
+            "optional_curio_slots": [
+                "pocket",
+                "feet",
+                "charm",
+                "belt",
+                "ring",
+                "hands",
+                "spellbook",
+                "body",
+                "back",
+                "necklace",
+                "head"
+            ]
+        }
+    ]
+}

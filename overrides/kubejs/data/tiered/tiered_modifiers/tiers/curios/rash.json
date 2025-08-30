@@ -1,0 +1,32 @@
+{
+    "weight": 1,
+    "reforge_experience_cost": 2,
+    "reforge_durability_cost": 2,
+    "reforge_item": "tiered:armorers_hammer",
+    "style": {
+        "color": "aqua"
+    },
+    "attributes": [
+        {
+            "type": "generic.attack_speed",
+            "modifier": {
+                "name": "tiered:curios.rash",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.02
+            },
+            "optional_curio_slots": [
+                "pocket",
+                "feet",
+                "charm",
+                "belt",
+                "ring",
+                "hands",
+                "spellbook",
+                "body",
+                "back",
+                "necklace",
+                "head"
+            ]
+        }
+    ]
+}

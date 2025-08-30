@@ -1,0 +1,33 @@
+{
+    "weight": 3,
+    "reforge_experience_cost": 3,
+    "reforge_durability_cost": 2,
+    "reforge_item": "tiered:weaponsmiths_hammer",
+    "verifiers": [
+        {
+            "tag": "simplyswords:swords"
+        },
+        {
+            "tag": "forge:weapons"
+        },
+        {
+            "tag": "forge:swords"
+        }
+    ],
+    "style": {
+        "color": "gray"
+    },
+    "attributes": [
+        {
+            "type": "forge:reach_distance",
+            "modifier": {
+                "name": "tiered:melee_weapons.tiny",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.18
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        }
+    ]
+}

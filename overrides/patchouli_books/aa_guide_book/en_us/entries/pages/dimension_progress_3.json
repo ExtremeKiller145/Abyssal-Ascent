@@ -1,0 +1,27 @@
+{
+    "name": "Dimension Progression 3",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:late_game",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Once you reach the Primordial Caves, you'll gain access to two upper layers: the Ocean Dimension and the Deeper Darker. To progress beyond the Deeper Darker into the Cave Dimension above and eventually the Overworld you'll need resources from all three dimensions: the Primordial Caves, the Ocean Dimension, and the Deeper Darker."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You'll need the Tectonic Abyssal Pickaxe. It's the most complex pickaxe to craft in the modpack and requires the Extinction Spear from the Primordial Caves, Abyssal Spellweave Ingots from the Ocean Dimension, and both a Warden Sclerite and a Reinforced Echo Shard from the Deeper Darker."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "To progress from the Infernal Crossing to the Primordial Caves above, you will need to craft the Blacksteel Pickaxe, It is crafted like a normal pickaxe with sticks and Blacksteel Ingots, These Ingots are a drop from the strongest boss in the Infernal Crossing, the Nameless Guardian."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Also due to a rendering bug with immersive portals, I'm just going to quote what I said in my Discord Server in FAQ 'For those who are saying there is a strange unbreakable block that ISN'T bedrock that is inbetween the dimensions, it is actually just obsidian, however due to immersive portals splitting the world into multiple layers, the obsidian is technically in a different dimension, meaning you don't see the progress as you break it, just continue to mine it, it will break in the same amount of time as the rest of the obsidian.'"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "There is also another bug that I must point out due to more immersive portals jank, if you attempt to mine a block that is in the dimension above you while still being in the dimension below it using the wrong pickaxe, the block will be mined even while using the wrong pickaxe, however immediately upon climbing into the hole you mined, the blocks will immediately re-generate and you will be teleported into some blocks in the dimension, suffocating to death, so use the correct pickaxe lol."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "structures": [
+    {
+      "structure": "dimension_of_caves:volcano",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 35,
+    "separation": 24,
+    "salt": 10609}
+}

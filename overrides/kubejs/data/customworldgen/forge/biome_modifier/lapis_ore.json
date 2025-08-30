@@ -1,0 +1,22 @@
+{
+    "type": "forge:add_features",
+    "biomes": [
+      "undergarden:barren_abyss",
+      "undergarden:blood_mushroom_bog",
+      "undergarden:dense_forest",
+      "undergarden:forgotten_field",
+      "undergarden:frostfields",
+      "undergarden:gronglegrowth",
+      "undergarden:indigo_mushroom_bog",
+      "undergarden:ink_mushroom_bog",
+      "undergarden:smog_spires",
+      "undergarden:smogstem_forest",
+      "undergarden:veil_mushroom_bog",
+      "undergarden:wigglewood_forest",
+      "undergarden:ancient_sea",
+      "undergarden:icy_sea"
+    ],
+    "features": "customworldgen:lapis_ore",
+    "step": "underground_ores"
+  }
+  

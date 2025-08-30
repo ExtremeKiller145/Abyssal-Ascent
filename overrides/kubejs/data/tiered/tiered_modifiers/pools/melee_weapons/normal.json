@@ -1,0 +1,45 @@
+{
+  "weight": 5,
+  "verifiers": [
+    {
+      "tag": "minecraft:swords"
+    },
+    {
+      "tag": "minecraft:axes"
+    },
+    {
+      "tag": "forge:weapons"
+    },
+    {
+      "tag": "simplyswords:swords"
+    },
+    {
+      "tag": "forge:swords"
+    }
+  ],
+  "tiers": [
+    "tiered:melee_weapons/large",
+    "tiered:melee_weapons/sharp",
+    "tiered:melee_weapons/pointy",
+    "tiered:melee_weapons/bulky",
+    "tiered:melee_weapons/heavy",
+    "tiered:melee_weapons/light",
+    "tiered:melee_weapons/rapid",
+    "tiered:melee_weapons/intimidating",
+    "tiered:melee_weapons/powerful",
+    "tiered:melee_weapons/adept",
+    "tiered:melee_weapons/taboo",
+    "tiered:melee_weapons/furious",
+    "tiered:melee_weapons/keen",
+    "tiered:melee_weapons/superior",
+    "tiered:melee_weapons/forceful",
+    "tiered:melee_weapons/quick",
+    "tiered:melee_weapons/agile",
+    "tiered:melee_weapons/nimble",
+    "tiered:melee_weapons/hurtful",
+    "tiered:melee_weapons/nasty",
+    "tiered:melee_weapons/unpleasant",
+    "tiered:melee_weapons/ruthless",
+    "tiered:melee_weapons/common"
+  ]
+}

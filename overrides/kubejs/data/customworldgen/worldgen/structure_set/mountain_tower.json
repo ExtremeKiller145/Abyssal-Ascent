@@ -1,0 +1,15 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 0.85,
+    "salt": 276320046,
+    "separation": 24,
+    "spacing": 36
+  },
+  "structures": [
+    {
+      "structure": "customworldgen:mountain_tower",
+      "weight": 1
+    }
+  ]
+}

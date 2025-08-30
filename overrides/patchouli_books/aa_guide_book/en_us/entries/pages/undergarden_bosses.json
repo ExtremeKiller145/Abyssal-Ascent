@@ -1,0 +1,26 @@
+{
+    "name": "Undergarden Bosses",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:early_game",
+    "pages": [
+
+
+        {
+            "type": "patchouli:text",
+            "text": "In the undergarden, there are two bosses, one primary and one mini-boss. The miniboss is named the Forgotten Guardian, which you are required to kill to obtain the materials to craft the pickaxe to progress to the next dimension above, the nether. The Forgotten Guardian is found in the catacombs and is very tanky, hits hard but is also very slow,"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "you can attack him without taking damage if you backtrack, staying outside his range while hitting him with melee attacks, I recommend having a decent melee weapon and full cloggrum armor before engaging. The second and primary boss, while not required for progression, drops very valuable loot but is much more difficult to defeat,"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "he's named the Dead King, and is found in the Magic Catacombs structure in his throneroom in the undergarden. The Dead King is a spellcasting based boss and has two stages, upon his health reaching zero, he will revive and replenish 50% of his health bar in an enraged state and will utilise much more destructive magic to end you."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you're playing Solo I recommend having full enchanted utherium armor with decent modifiers, a melee and a ranged weapon with teleportation and healing based magic for utility, if you're playing co-op though this is easier and you can probably wing it with decent gear, it'll still be a challenge however."
+        }
+
+    ]
+}

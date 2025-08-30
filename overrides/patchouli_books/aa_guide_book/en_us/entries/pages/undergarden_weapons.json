@@ -1,0 +1,21 @@
+{
+    "name": "Undergarden Weapons",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:early_game",
+    "pages": [
+
+
+        {
+            "type": "patchouli:text",
+            "text": "There are countless different weapons you can wield from materials in the undergarden, for melee you have swords, daggers, parrying daggers, longswords, katanas, sabres, rapiers, greatswords, battle hammers, warhammers, spears, halberds, pikes, lances, flanged maces, glaives, quarterstaffs and scythes, some of these being two handed weapons."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "For ranged (some of these can also be used as melee) you have longbows, heavy crossbows, throwing knives, tomahawks, javelins and boomerangs, with each type having their pros and cons. All of these weapons have their variants that can be crafted with stone, cloggrum, utherium, diamond and forgotten ingots."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "In terms of magic, by crafting a spellbook and collecting magic scrolls, you can inscribe them into your spellbook to use them offensively as weapons, some magics can be used for utility while others can heal you, buff you and your allies, spells casted costs mana which can be increased by having a better spellbook and wearing higher quality mage armor."
+        }
+    ]
+}

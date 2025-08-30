@@ -1,0 +1,9 @@
+{
+    "type": "forge:add_features",
+    "biomes": [
+     "alexscaves:primordial_caves"
+    ],
+    "features": "customworldgen:limestone_coal_ore",
+    "step": "underground_ores"
+  }
+  

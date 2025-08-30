@@ -1,0 +1,32 @@
+{
+    "weight": 5,
+    "reforge_experience_cost": 2,
+    "reforge_durability_cost": 2,
+    "reforge_item": "tiered:armorers_hammer",
+    "style": {
+        "color": "aqua"
+    },
+    "attributes": [
+        {
+            "type": "unionlib:generic.critical_rate",
+            "modifier": {
+                "name": "tiered:curios.precise",
+                "operation": "ADDITION",
+                "amount": 0.02
+            },
+            "optional_curio_slots": [
+                "pocket",
+                "feet",
+                "charm",
+                "belt",
+                "ring",
+                "hands",
+                "spellbook",
+                "body",
+                "back",
+                "necklace",
+                "head"
+            ]
+        }
+    ]
+}

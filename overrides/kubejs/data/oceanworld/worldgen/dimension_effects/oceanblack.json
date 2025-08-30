@@ -1,0 +1,9 @@
+{
+    "fog_color": [0.0, 0.0, 0.0],
+    "sky_type": "none",
+    "has_skylight": false,
+    "has_fog": true,
+    "clouds": "none",
+    "ambient_light": 0.03
+  }
+  

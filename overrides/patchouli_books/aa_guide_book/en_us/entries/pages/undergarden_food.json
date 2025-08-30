@@ -1,0 +1,34 @@
+{
+    "name": "Undergarden Food",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:early_game",
+    "pages": [
+
+
+        {
+            "type": "patchouli:text",
+            "text": "Some of these meals can be crafted at a crafting table while others need cooking pots and a furnace, for simplicities sake I will not list crafting/cooking recipes, check them yourself using JEI by opening your inventory and searching their names on the bottom-right corner of the screen. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "There are various food sources in the early game, for the undergarden the most reliable way is to collect underbeans, cook them and save a few to be replanted to re-grow. Underbeans can be found in nearly all undergarden biomes randomly, when you find one, right click it to harvest while keeping the bush planted for more later on, they grow very quickly."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Gloompers can be bred as cattle animals for leather and food, you breed them using gloomgourds, the undergarden equivalent of pumpkins. Gloomgourds can also be farmed the same way as pumpkins can, by crafting them into seeds and planting them on tilled soil as a way to sustain your gloomper population. Be warned that farming them might be a little bit of a pain, as they secrete poison when directly harmed, there are ways to get around this by making some unique farm designs though."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Another use for gloomgourds aside for breeding gloompers is consumption, while you cannot consume them directly, by crafting a cutting board and placing a gloomgourd ontop, you can chop them into smaller edible slices. Furthermore you can use gloomgourds to craft gloomgourd pies which is a much more nutritious but are more difficult produce in large quantities."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Dwellers are another non-hostile mob in the undergarden that can be culled for food, they drop dweller meat that can be cooked, however unlike gloompers they cannot be bred. Gronglets while quite cute looking.. (in my opinion) Are much more useful as a source of nutrition rather than being a light source, however cooking recipes for them are much more complicated than other food in the Undergarden as they require a cooking pot to craft, food such as Gronglunch, Gronglet with roasted veggies and Gronglet roll. "
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Mogs while not a source of direct food, drop mogmoss which can be crafted into scintling stew, you also have stuffed gloomgourds, bowls of stuffed gloomgourds, droopstew, underbean salads, depth shroom cream soup, glitterdish, bloody mushroom tomato soup, baked gwibling and vegetables, mogsteak, glitterwarp and cooked gwibling fillets which are the primary fish of the undergarden."
+        }
+
+    ]
+}

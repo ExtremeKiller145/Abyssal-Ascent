@@ -1,0 +1,32 @@
+{
+    "weight": 1,
+    "reforge_experience_cost": 4,
+    "reforge_durability_cost": 2,
+    "reforge_item": "tiered:armorers_hammer",
+    "style": {
+        "color": "gold"
+    },
+    "attributes": [
+        {
+            "type": "irons_spellbooks:max_mana",
+            "modifier": {
+                "name": "tiered:curios.arcane",
+                "operation": "ADDITION",
+                "amount": 50
+            },
+            "optional_curio_slots": [
+                "pocket",
+                "feet",
+                "charm",
+                "belt",
+                "ring",
+                "hands",
+                "spellbook",
+                "body",
+                "back",
+                "necklace",
+                "head"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "weight": 3,
+    "reforge_experience_cost": 3,
+    "reforge_durability_cost": 2,
+    "reforge_item": "tiered:weaponsmiths_hammer",
+    "verifiers": [
+        {
+            "tag": "simplyswords:swords"
+        },
+        {
+            "tag": "forge:weapons"
+        },
+        {
+            "tag": "forge:swords"
+        }
+    ],
+    "style": {
+        "color": "gray"
+    },
+    "attributes": [
+        {
+            "type": "generic.attack_speed",
+            "modifier": {
+                "name": "tiered:melee_weapons.awkward",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.attack_knockback",
+            "modifier": {
+                "name": "tiered:melee_weapons.awkward",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.2
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        }
+    ]
+}

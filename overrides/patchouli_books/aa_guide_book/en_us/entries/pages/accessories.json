@@ -1,0 +1,11 @@
+{
+    "name": "Accessories",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:early_game",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Accessories are items that can be equiped in your accessory slots by clicking on the button top-left of your character in your inventory screen, you can find various accessories throughout the world in chests and loot, they provide buffs, utility and powers to the user, they can also be reforged to change the modifier each one has."
+        }
+    ]
+}

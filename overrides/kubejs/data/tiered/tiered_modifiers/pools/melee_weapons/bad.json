@@ -1,0 +1,42 @@
+{
+  "weight": 3,
+  "verifiers": [
+    {
+      "tag": "minecraft:swords"
+    },
+    {
+      "tag": "minecraft:axes"
+    },
+    {
+      "tag": "forge:weapons"
+    },
+    {
+      "tag": "simplyswords:swords"
+    },
+    {
+      "tag": "forge:swords"
+    }
+  ],
+  "tiers": [
+    "tiered:melee_weapons/broken",
+    "tiered:melee_weapons/tiny",
+    "tiered:melee_weapons/terrible",
+    "tiered:melee_weapons/small",
+    "tiered:melee_weapons/dull",
+    "tiered:melee_weapons/unhappy",
+    "tiered:melee_weapons/shameful",
+    "tiered:melee_weapons/awful",
+    "tiered:melee_weapons/lethargic",
+    "tiered:melee_weapons/awkward",
+    "tiered:melee_weapons/inept",
+    "tiered:melee_weapons/ignorant",
+    "tiered:melee_weapons/deranged",
+    "tiered:melee_weapons/damaged",
+    "tiered:melee_weapons/shoddy",
+    "tiered:melee_weapons/slow",
+    "tiered:melee_weapons/sluggish",
+    "tiered:melee_weapons/lazy",
+    "tiered:melee_weapons/annoying",
+    "tiered:melee_weapons/weak"
+  ]
+}

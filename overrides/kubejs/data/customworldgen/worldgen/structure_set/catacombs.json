@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "customworldgen:catacombs",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1794563211,
+    "spacing": 72,
+    "separation": 48,
+    "type": "minecraft:random_spread"
+  }
+}

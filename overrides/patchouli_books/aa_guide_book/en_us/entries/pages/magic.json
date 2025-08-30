@@ -1,0 +1,23 @@
+{
+    "name": "Magic",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:early_game",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Magic in this modpack is handled by the Iron's Spells 'n Spellbooks mod, if you're unfamiliar with it I recommend reading the Wiki on it online. You can use magic for many purposes, offensively, utility, to buff and heal you and other players etc. To cast magic you need to have a spellbook equipped in your spellbook accessory slot (read accessories entry)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "To select a spell to cast by default press R to open available spells you have inscribed onto your spellbook and to cast, press V (by default these keybinds may be in conflict with others, change them to something else or change the conflicting ones in settings) Spells cost mana to cast, you can increase your total mana pool by wearing mage specific armor and arcane accessories."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Some spellbooks can be crafted while others can only be found in loot, or through boss drops, spellbooks aren't the only medium you can use to cast spells, there are other rare and powerful specialised items that you can also inscribe spells onto to cast magic. To inscribe spells onto your spellbook you need to either find or craft an inscription table, (you can find them in some structures)."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You also need the scroll to inscribe physically onto the spellbook, scrolls by themselves can be used but it is a one time use so it's generally a good idea to just inscribe them onto your spellbook instead, scrolls can be either crafted or found in random chests and loot as well as mob and boss drops, crafting them is pretty complicated, visit the mods wiki to learn how you can do that."
+        }
+    ]
+}

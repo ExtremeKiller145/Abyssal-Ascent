@@ -1,0 +1,678 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 4,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "undergarden:music_disc_mammoth"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "undergarden:music_disc_relict"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "undergarden:forgotten_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 400,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "undergarden:gloomgourd_pie"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 400,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "undergarden:cloggrum_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 400,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "undergarden:froststeel_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 400,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "undergarden:utheric_shard"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 400,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "undergarden:regalium_crystal"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 200,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": [
+                "minecraft:unbreaking",
+                "minecraft:sharpness",
+                "minecraft:fire_aspect",
+                "minecraft:mending",
+                "minecraft:looting"
+              ]
+            }
+          ],
+          "name": "undergarden:cloggrum_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 160,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "conditions": []
+            }
+          ],
+          "name": "undergarden:cloggrum_pickaxe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 160,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "undergarden:cloggrum_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 160,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "undergarden:cloggrum_shovel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 240,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 6,
+                "max": 21,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "irons_spellbooks:arcane_essence"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 240,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "irons_spellbooks:common_ink"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 180,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 6,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "irons_spellbooks:uncommon_ink"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 120,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 5,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "irons_spellbooks:rare_ink"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 90,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "irons_spellbooks:epic_ink"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 60,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "irons_spellbooks:legendary_ink"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 80,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:poisonous_potato"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 80,
+          "name": "minecraft:experience_bottle"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:villager_spell_book"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:rotten_spell_book"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:mana_ring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:cooldown_ring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:amethyst_resonance_charm"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:concentration_amulet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:conjurers_talisman"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:poisonward_ring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:frostward_ring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:fireward_ring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:heavy_chain_necklace"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "irons_spellbooks:silver_ring"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:whoopee_cushion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:flippers"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:running_shoes"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:kitty_slippers"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:bunny_hoppers"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:aqua_dashers"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:golden_hook"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:vampiric_glove"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:pocket_piston"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:feral_claws"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:digging_claws"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:helium_flamingo"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:crystal_heart"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:universal_attractor"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:antidote_vessel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:obsidian_skull"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:thorn_pendant"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:flame_pendant"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:shock_pendant"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:everlasting_beef"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:lucky_scarf"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "artifacts:umbrella"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:harbinger"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:sunfire"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:tainted_relic"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:dormant_relic"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:righteous_relic"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:shadowsting"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:awakened_lichblade"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:waking_lichblade"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:slumbering_lichblade"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:mjolnir"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:thunderbrand"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:arcanethyst"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:icewhisper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:livyatan"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:molten_edge"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:frostfall"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:soulpyre"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:soulrender"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:soulstealer"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:twisted_blade"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:soulkeeper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:hearthflame"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:emberblade"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:toxic_longsword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:watching_warglaive"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:bramblethorn"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:sword_on_a_stick"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:stormbringer"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:storms_edge"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:watcher_claymore"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "simplyswords:brimstone_claymore"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "celestial_core:treasure_fragment"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:blood_vial",
+          "weight": 80,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:frozen_bone",
+          "weight": 80,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:frozen_bone",
+          "weight": 80,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:lightning_bottle",
+          "weight": 80,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 80,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:dead_king_corpse_spawn_egg",
+          "weight": 24
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{StoredEnchantments:[{id:\"minecraft:mending\",lvl:1s}]}"
+            }
+          ],
+          "name": "minecraft:enchanted_book"
+        }
+      ]
+    }
+  ]
+}

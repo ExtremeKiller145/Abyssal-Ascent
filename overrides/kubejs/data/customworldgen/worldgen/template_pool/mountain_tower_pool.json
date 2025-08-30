@@ -1,0 +1,17 @@
+{
+
+  "name": "customworldgen:mountain_tower_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+
+        "location": "customworldgen:mountain_tower",
+        "processors": "customworldgen:weather_stone_blocks",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

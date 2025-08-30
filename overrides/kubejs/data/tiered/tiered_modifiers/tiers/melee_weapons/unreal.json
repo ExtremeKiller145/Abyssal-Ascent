@@ -1,0 +1,99 @@
+{
+    "weight": 2,
+    "reforge_experience_cost": 3,
+    "reforge_durability_cost": 2,
+    "reforge_item": "tiered:weaponsmiths_hammer",
+    "verifiers": [
+        {
+            "tag": "simplyswords:swords"
+        },
+        {
+            "tag": "forge:weapons"
+        },
+        {
+            "tag": "forge:swords"
+        }
+    ],
+    "style": {
+        "color": "gold"
+    },
+    "attributes": [
+        {
+            "type": "unionlib:generic.critical_rate",
+            "modifier": {
+                "name": "tiered:melee_weapons.unreal",
+                "operation": "ADDITION",
+                "amount": 0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.attack_damage",
+            "modifier": {
+                "name": "tiered:melee_weapons.unreal",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.attack_speed",
+            "modifier": {
+                "name": "tiered:melee_weapons.unreal",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.5
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.attack_knockback",
+            "modifier": {
+                "name": "tiered:melee_weapons.unreal",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": -0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "forge:attack_range",
+            "modifier": {
+                "name": "tiered:melee_weapons.unreal",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.luck",
+            "modifier": {
+                "name": "tiered:melee_weapons.unreal",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:melee_weapons.unreal",
+                "operation": "MULTIPLY_TOTAL",
+                "amount": 0.33
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        }
+    ]
+}
